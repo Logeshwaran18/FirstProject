@@ -8,6 +8,8 @@ public class Happy {
 		System.out.println("hello 1");
 		System.out.println("happy 2");
 		
+		
+		
 	}
 
 }
