@@ -10,6 +10,10 @@ public class A {
 		Data[] aa = Data.values();
 		
 		System.out.println(aa[5]);
+		
+		
+		
+	
 	}
 
 }
