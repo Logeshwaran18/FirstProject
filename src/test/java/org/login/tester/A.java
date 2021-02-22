@@ -1,14 +1,15 @@
 package org.login.tester;
 
 public class A {
-	private void hap() {
-		System.out.println("haao");
-
+	public enum Data{
+		MON,TUE,WED,THUR,FRI,SAT,SUN,HHH
 	}
+	
 	public static void main(String[] args) {
-		A aa = new A();
-		aa.hap();
-				
+	
+		Data[] aa = Data.values();
+		
+		System.out.println(aa[5]);
 	}
 
 }
