@@ -12,8 +12,7 @@ public class A {
 		System.out.println(aa[5]);
 		
 		
-		
-	
+
 	}
 
 }
